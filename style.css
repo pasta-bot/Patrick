@@ -1,6 +1,12 @@
-h1{
-  padding-top: 25px;
+#section1 {
+    height: 90%; 
+    text-align:center; 
+    display:table;
+    width:100%;
 }
+
+#section1 h1 {display:table-cell; vertical-align:middle}
+
 #p{
   padding-top: #FF1111;
 }
